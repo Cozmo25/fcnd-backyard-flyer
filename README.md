@@ -6,8 +6,8 @@ Here's a video and telemetry of the 'backyard flyer' drone I programmed to fly a
 
 [![Backyard Flyer](https://img.youtube.com/vi/nHS0HfCNFUY/0.jpg)](https://youtube.com/watch?v=nHS0HfCNFUY "Backyard Flyer")
 
-[!Local Position](local_position.png)
-[!Altitude](altitude.png)
+[!Local Position](./local_position.png)
+[!Altitude](./altitude.png)
 
 ## Project Instructions
 
